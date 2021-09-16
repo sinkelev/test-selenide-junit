@@ -1,6 +1,6 @@
 import org.junit.Test;
-import test.selenide.pages.LoginPage;
-import test.selenide.pages.MainPage;
+import Pages.LoginPage;
+import Pages.MainPage;
 
 public class LoginTest {
 
